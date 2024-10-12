@@ -1,6 +1,8 @@
 # Final project for the Building AI course
 
 ## Summary
+Building AI course project
+
 ***Paced Education – Learning at each’s right rhythm***
 
 ## Background
